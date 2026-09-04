@@ -7,7 +7,7 @@
 
 <p align="center">
   <a href="https://gitfut.com/TerenceChuene">
-    <img src="https://gitfut.com/TerenceChuene.png?t=mtn2b01a" alt="TerenceChuene GitFut FIFA card" width="360" />
+    <img src="https://gitfut.com/TerenceChuene.png?t=mtn2ea81" alt="TerenceChuene GitFut FIFA card" width="360" />
   </a>
 </p>
 
@@ -54,7 +54,7 @@
 | **Active days** | 28 days | `██████░░░░` **56** |
 | **Repositories** | 10 repos | `█████░░░░░` **45** |
 
-<sub>Last auto-scout: <code>2026-09-04T14:41:32Z</code> · source <a href="https://gitfut.com/api/card/TerenceChuene">GitFut API</a></sub>
+<sub>Last auto-scout: <code>2026-09-04T14:44:05Z</code> · source <a href="https://gitfut.com/api/card/TerenceChuene">GitFut API</a></sub>
 
 <!-- FIFA-CARD:END -->
 
