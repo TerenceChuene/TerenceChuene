@@ -6,13 +6,8 @@
 <!-- Auto-updated by .github/workflows/update-fifa-card.yml — do not edit by hand -->
 
 <p align="center">
-<<<<<<< HEAD
-  <a href="https://gitfut.com/TerenceChuene">
-    <img src="https://gitfut.com/TerenceChuene.png?t=mtn2ea81" alt="TerenceChuene GitFut FIFA card" width="360" />
-=======
   <a href="https://gitfut.com/TerenceChuene?country=ZA">
-    <img src="https://gitfut.com/TerenceChuene.png?country=ZA&t=mtn2p7da" alt="TerenceChuene GitFut FIFA card (ZA)" width="360" />
->>>>>>> ea3a539 (Update README.md)
+    <img src="https://gitfut.com/TerenceChuene.png?country=ZA&t=mtn30dw4" alt="TerenceChuene GitFut FIFA card (ZA)" width="360" />
   </a>
 </p>
 
@@ -79,9 +74,6 @@
 | **Active days** | 28 days | `██████░░░░` **56** |
 | **Repositories** | 10 repos | `█████░░░░░` **45** |
 
-<<<<<<< HEAD
-<sub>Last auto-scout: <code>2026-09-04T14:44:05Z</code> · source <a href="https://gitfut.com/api/card/TerenceChuene">GitFut API</a></sub>
-=======
 ### Season history
 
 | Year | Commits | PRs | Reviews | Issues | Restricted |
@@ -95,8 +87,7 @@
 
 _No awards yet — keep shipping._
 
-<sub>Last auto-scout: <code>2026-09-04T14:52:35Z</code> · country locked to <code>ZA</code> · source <a href="https://gitfut.com/api/card/TerenceChuene?country=ZA">GitFut API</a></sub>
->>>>>>> ea3a539 (Update README.md)
+<sub>Last auto-scout: <code>2026-09-04T15:01:17Z</code> · country locked to <code>ZA</code> · source <a href="https://gitfut.com/api/card/TerenceChuene?country=ZA">GitFut API</a></sub>
 
 <!-- FIFA-CARD:END -->
 
