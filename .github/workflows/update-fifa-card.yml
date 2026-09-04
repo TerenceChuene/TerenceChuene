@@ -1,17 +1,15 @@
 name: Update FIFA card
 
-# Re-scouts GitFut whenever this repo changes, on a timer (catches activity
-# elsewhere), or when you run it manually from the Actions tab.
 on:
   push:
     branches: [main]
     paths-ignore:
       - "README.md"
+      - "assets/scout-report.png"
+      - "assets/fifa-card.png"
   schedule:
-    # Every 4 hours — picks up commits/PRs from other repos
     - cron: "0 */4 * * *"
   workflow_dispatch:
-  # Optional: other repos can POST repository_dispatch to refresh sooner
   repository_dispatch:
     types: [github-activity]
 
@@ -34,7 +32,15 @@ jobs:
         with:
           node-version: "20"
 
-      - name: Re-scout card + rewrite README
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Install Pillow
+        run: pip install pillow
+
+      - name: Re-scout card + rebuild dashboard
         env:
           GITHUB_USERNAME: TerenceChuene
           GITFUT_COUNTRY: ZA
@@ -42,12 +48,12 @@ jobs:
 
       - name: Commit if the card changed
         run: |
-          if git diff --quiet README.md; then
+          if git diff --quiet README.md assets/scout-report.png assets/fifa-card.png 2>/dev/null; then
             echo "Card already up to date."
             exit 0
           fi
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add README.md
-          git commit -m "chore: refresh GitFut FIFA card from latest activity"
+          git add README.md assets/scout-report.png assets/fifa-card.png
+          git commit -m "chore: refresh GitFut FIFA scout dashboard"
           git push
