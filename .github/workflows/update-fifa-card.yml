@@ -37,6 +37,7 @@ jobs:
       - name: Re-scout card + rewrite README
         env:
           GITHUB_USERNAME: TerenceChuene
+          GITFUT_COUNTRY: ZA
         run: node scripts/update-profile.mjs
 
       - name: Commit if the card changed

@@ -6,40 +6,65 @@
 <!-- Auto-updated by .github/workflows/update-fifa-card.yml — do not edit by hand -->
 
 <p align="center">
+<<<<<<< HEAD
   <a href="https://gitfut.com/TerenceChuene">
     <img src="https://gitfut.com/TerenceChuene.png?t=mtn2ea81" alt="TerenceChuene GitFut FIFA card" width="360" />
+=======
+  <a href="https://gitfut.com/TerenceChuene?country=ZA">
+    <img src="https://gitfut.com/TerenceChuene.png?country=ZA&t=mtn2p7da" alt="TerenceChuene GitFut FIFA card (ZA)" width="360" />
+>>>>>>> ea3a539 (Update README.md)
   </a>
 </p>
 
 <p align="center">
   <strong>MADIMETJA TERENCE CHUENE</strong><br/>
-  <code>60 OVR</code> · <code>BRONZE</code> · <code>CAM</code> · <em>Fantasista</em><br/>
+  🇿🇦 <code>ZA</code>
+  · <code>60 OVR</code> (base 59)
+  · <code>BRONZE</code>
+  · <code>CAM</code>
+  · <em>Fantasista</em>
+  · Playmaker<br/>
   <sub>ONE TO WATCH — the magician — a polyglot working across many stacks</sub>
 </p>
 
 <p align="center">
-  <a href="https://gitfut.com/TerenceChuene"><strong>Full scout report →</strong></a>
+  <a href="https://gitfut.com/TerenceChuene?country=ZA"><strong>Full scout report →</strong></a>
   &nbsp;·&nbsp;
   <a href="https://github.com/TerenceChuene">@TerenceChuene</a>
+  &nbsp;·&nbsp;
+  Club: <strong>neutral</strong>
   &nbsp;·&nbsp;
   Top language: <strong>C#</strong>
 </p>
 
-### Match ratings
+### Card stats (live)
 
 | PAC | SHO | PAS | DRI | DEF | PHY |
 |:---:|:---:|:---:|:---:|:---:|:---:|
 | **62** | **48** | **59** | **69** | **44** | **64** |
 
+| Field | Value |
+|:------|:------|
+| **Overall** | 60 |
+| **Base OVR** | 59 |
+| **Finish** | BRONZE |
+| **Position** | CAM |
+| **Family** | Playmaker |
+| **Archetype** | Fantasista |
+| **Country** | 🇿🇦 ZA |
+| **Club** | neutral |
+| **Top language** | C# |
+| **Legacy (L)** | 0.089 |
+
 ### Attributes
 
-| | |
-|:--|:--|
-| **Skill moves** | ★★★☆☆ |
-| **Weak foot** | ★★☆☆☆ |
-| **Work rate** | Med / Low |
-| **Style** | Measured |
-| **Playstyles** | No standout traits yet — keep shipping. |
+| | | Why |
+|:--|:--|:--|
+| **Skill moves** | ★★★☆☆ | Technical range: 4 languages. |
+| **Weak foot** | ★★☆☆☆ | Off-foot: your three weakest stats average 50/99. |
+| **Work rate** | Med / Low | Attack Med from shipping output (commits, stars); defense Low from reviews & issues. |
+| **Style** | Measured | Light recent activity. |
+| **Playstyles** | No standout traits yet — keep shipping. | |
 
 ### Scouting metrics
 
@@ -54,7 +79,24 @@
 | **Active days** | 28 days | `██████░░░░` **56** |
 | **Repositories** | 10 repos | `█████░░░░░` **45** |
 
+<<<<<<< HEAD
 <sub>Last auto-scout: <code>2026-09-04T14:44:05Z</code> · source <a href="https://gitfut.com/api/card/TerenceChuene">GitFut API</a></sub>
+=======
+### Season history
+
+| Year | Commits | PRs | Reviews | Issues | Restricted |
+|:----:|--------:|----:|--------:|-------:|-----------:|
+| **2023** | 0 | 0 | 0 | 0 | 0 |
+| **2024** | 40 | 0 | 0 | 0 | 147 |
+| **2025** | 70 | 2 | 0 | 0 | 71 |
+| **2026** | 48 | 1 | 0 | 0 | 28 |
+
+### Awards
+
+_No awards yet — keep shipping._
+
+<sub>Last auto-scout: <code>2026-09-04T14:52:35Z</code> · country locked to <code>ZA</code> · source <a href="https://gitfut.com/api/card/TerenceChuene?country=ZA">GitFut API</a></sub>
+>>>>>>> ea3a539 (Update README.md)
 
 <!-- FIFA-CARD:END -->
 
