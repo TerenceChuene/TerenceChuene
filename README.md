@@ -7,7 +7,7 @@
 
 <p align="center">
   <a href="https://gitfut.com/TerenceChuene?country=ZA">
-    <img src="./assets/scout-report.png?t=mtxt5rjo" alt="MADIMETJA TERENCE CHUENE FIFA scout report" width="920" />
+    <img src="./assets/scout-report.png?t=mty49oyj" alt="MADIMETJA TERENCE CHUENE FIFA scout report" width="920" />
   </a>
 </p>
 
@@ -18,7 +18,7 @@
   &nbsp;·&nbsp;
   🇿🇦 <code>ZA</code>
   &nbsp;·&nbsp;
-  <code>60 OVR</code> · <code>CAM</code> · <code>BRONZE</code>
+  <code>61 OVR</code> · <code>CAM</code> · <code>BRONZE</code>
 </p>
 
 <!-- FIFA-CARD:END -->
