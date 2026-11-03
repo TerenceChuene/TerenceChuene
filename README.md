@@ -7,7 +7,7 @@
 
 <p align="center">
   <a href="https://gitfut.com/TerenceChuene?country=ZA">
-    <img src="./assets/scout-report.png?t=mw0m5npn" alt="MADIMETJA TERENCE CHUENE FIFA scout report" width="920" />
+    <img src="./assets/scout-report.png?t=mw1235ae" alt="MADIMETJA TERENCE CHUENE FIFA scout report" width="920" />
   </a>
 </p>
 
