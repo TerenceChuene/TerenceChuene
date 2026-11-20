@@ -1,6 +1,4 @@
-
 #!/usr/bin/env node
-
 /**
  * ResQMe-style resilient GitFut dashboard updater.
  * Country locked to ZA.
